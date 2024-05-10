@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
 
